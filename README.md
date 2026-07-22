@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/katyalpratham/LEET_DSA/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/katyalpratham/LEET_DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
