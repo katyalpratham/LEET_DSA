@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/katyalpratham/LEET_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/katyalpratham/LEET_DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/katyalpratham/LEET_DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
