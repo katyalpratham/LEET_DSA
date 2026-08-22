@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/katyalpratham/LEET_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/katyalpratham/LEET_DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/katyalpratham/LEET_DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
