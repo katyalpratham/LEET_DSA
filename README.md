@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/katyalpratham/LEET_DSA/tree/master/0050-powx-n) |
 ## Database
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/katyalpratham/LEET_DSA/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/katyalpratham/LEET_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
