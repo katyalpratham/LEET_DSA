@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/katyalpratham/LEET_DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/katyalpratham/LEET_DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/katyalpratham/LEET_DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/katyalpratham/LEET_DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/katyalpratham/LEET_DSA/tree/master/1386-cinema-seat-allocation) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/katyalpratham/LEET_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
