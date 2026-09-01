@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/katyalpratham/LEET_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/katyalpratham/LEET_DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/katyalpratham/LEET_DSA/tree/master/0112-path-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/katyalpratham/LEET_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/katyalpratham/LEET_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/katyalpratham/LEET_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/katyalpratham/LEET_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/katyalpratham/LEET_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/katyalpratham/LEET_DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/katyalpratham/LEET_DSA/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/katyalpratham/LEET_DSA/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/katyalpratham/LEET_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/katyalpratham/LEET_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/katyalpratham/LEET_DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -150,8 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/katyalpratham/LEET_DSA/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/katyalpratham/LEET_DSA/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/katyalpratham/LEET_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/katyalpratham/LEET_DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/katyalpratham/LEET_DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
