@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/katyalpratham/LEET_DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/katyalpratham/LEET_DSA/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/katyalpratham/LEET_DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/katyalpratham/LEET_DSA/tree/master/0115-distinct-subsequences) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/katyalpratham/LEET_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
