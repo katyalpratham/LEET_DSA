@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/katyalpratham/LEET_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/katyalpratham/LEET_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/katyalpratham/LEET_DSA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/katyalpratham/LEET_DSA/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/katyalpratham/LEET_DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0151-reverse-words-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
