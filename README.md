@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/katyalpratham/LEET_DSA/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/katyalpratham/LEET_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0344-reverse-string) |
 ## Bracket Sequences
 |  |
 | ------- |
