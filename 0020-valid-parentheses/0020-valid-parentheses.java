@@ -21,7 +21,8 @@ class Solution {
                     (ch == ']' && stack.peek() == '[') ||
                     (ch == '}' && stack.peek() == '{')) {
                     stack.pop();
-                } else {
+                }
+                 else {
                     return false;
                 }
             }
