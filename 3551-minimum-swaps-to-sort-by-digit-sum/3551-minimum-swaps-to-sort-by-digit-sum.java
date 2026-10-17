@@ -2,61 +2,42 @@ import java.util.*;
 
 class Solution {
     public int minSwaps(int[] nums) {
-        ArrayList<Integer> swap = new ArrayList<>();
         int n = nums.length;
 
-        for (int i = 0; i < n; i++) {
-            int store = 0;
-            int num = nums[i];
+        // indices sorted by (digit sum, value)
+        Integer[] idx = new Integer[n];
+        for (int i = 0; i < n; i++) idx[i] = i;
 
-            while (num > 0) {
-                int digit = num % 10;
-                store += digit;
-                num /= 10;
-            }
-
-            swap.add(store);
-        }
-
-        int[] arr = swap.stream()
-                .mapToInt(Integer::intValue)
-                .toArray();
-
-        int[] nums1 = nums.clone();
-
-        Integer[] order = new Integer[n];
-
-        for (int i = 0; i < n; i++) {
-            order[i] = i;
-        }
-
-        Arrays.sort(order, (a, b) -> {
-            if (arr[a] != arr[b]) {
-                return Integer.compare(arr[a], arr[b]);
-            }
-            return Integer.compare(nums1[a], nums1[b]);
+        Arrays.sort(idx, (a, b) -> {
+            int sa = digitSum(nums[a]), sb = digitSum(nums[b]);
+            return sa != sb ? sa - sb : nums[a] - nums[b];
         });
 
+        // count swaps = sum of (cycle length - 1)
         boolean[] visited = new boolean[n];
-        int count = 0;
+        int swaps = 0;
 
         for (int i = 0; i < n; i++) {
-            if (visited[i] || order[i] == i) {
-                continue;
-            }
+            if (visited[i]) continue;
 
-            int cycle = 0;
-            int j = i;
-
+            int j = i, len = 0;
             while (!visited[j]) {
                 visited[j] = true;
-                j = order[j];
-                cycle++;
+                j = idx[j];
+                len++;
             }
-
-            count += cycle - 1;
+            swaps += len - 1;
         }
 
-        return count;
+        return swaps;
+    }
+
+    private int digitSum(int x) {
+        int sum = 0;
+        while (x > 0) {
+            sum += x % 10;
+            x /= 10;
+        }
+        return sum;
     }
 }
