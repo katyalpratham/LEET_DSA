@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/katyalpratham/LEET_DSA/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/katyalpratham/LEET_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/katyalpratham/LEET_DSA/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/katyalpratham/LEET_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/katyalpratham/LEET_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/katyalpratham/LEET_DSA/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/katyalpratham/LEET_DSA/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/katyalpratham/LEET_DSA/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/katyalpratham/LEET_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/katyalpratham/LEET_DSA/tree/master/1004-max-consecutive-ones-iii) |
