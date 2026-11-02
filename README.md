@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/katyalpratham/LEET_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/katyalpratham/LEET_DSA/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/katyalpratham/LEET_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/katyalpratham/LEET_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/katyalpratham/LEET_DSA/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/katyalpratham/LEET_DSA/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/katyalpratham/LEET_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/katyalpratham/LEET_DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/katyalpratham/LEET_DSA/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/katyalpratham/LEET_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/katyalpratham/LEET_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
