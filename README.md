@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/katyalpratham/LEET_DSA/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/katyalpratham/LEET_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/katyalpratham/LEET_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/katyalpratham/LEET_DSA/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/katyalpratham/LEET_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/katyalpratham/LEET_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/katyalpratham/LEET_DSA/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/katyalpratham/LEET_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/katyalpratham/LEET_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/katyalpratham/LEET_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/katyalpratham/LEET_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/katyalpratham/LEET_DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/katyalpratham/LEET_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/katyalpratham/LEET_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/katyalpratham/LEET_DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/katyalpratham/LEET_DSA/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/katyalpratham/LEET_DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bracket Sequences
 |  |
 | ------- |
