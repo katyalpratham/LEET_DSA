@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/katyalpratham/LEET_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/katyalpratham/LEET_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/katyalpratham/LEET_DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/katyalpratham/LEET_DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3894-traffic-signal-color](https://github.com/katyalpratham/LEET_DSA/tree/master/3894-traffic-signal-color) |
 ## Greedy
